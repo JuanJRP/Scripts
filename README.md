@@ -5,6 +5,7 @@ This repository contains a collection of scripts that use XPath for XML and HTML
 ## Requisitos
 
 - Python 3.x
+- Selenium
 
 ## requirements
 ```bash
